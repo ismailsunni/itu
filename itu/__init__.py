@@ -1,4 +1,5 @@
 s = """Zen tentang Python, oleh Tim Peters
+
 Yang elok lebih baik daripada yang buruk.
 Yang eksplisit lebih baik daripada yang implisit.
 Yang sederhana lebih baik daripada yang kompleks.
