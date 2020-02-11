@@ -45,3 +45,20 @@ Diterjemahkan oleh Alex Xandra Albert Sim.
 ## Kontribusi
 
 Silakan berkontribusi dengan membuka _Pull Request_ atau melaporkan jika ada masalah.
+
+## Kredit
+
+- Terjemahan diambil dari [sini](https://bertzzie.com/post/38/zen-dari-python-sebuah-pembahasan) oleh [Alex Xandra Albert  Sim](https://github.com/bertzzie).
+- Terinspirasi oleh `import this` dan [`import iki`](https://github.com/ismailsunni/iki)
+
+## Pertanyaan
+
+**Pertanyaan:** Kenapa `itu` dan bukan `ini`?
+
+**Jawaban:** Karena `ini` sudah dipakai oleh package [lain](https://pypi.org/project/INI/)
+
+---
+
+**Pertanyaan:** Kenapa membuat `itu`?
+
+**Jawaban:** Untuk senang-senang saja. Siapa tahu bisa berguna :)
