@@ -1,4 +1,4 @@
-# itu 
+# itu
 
 `import this` versi Bahasa Indonesia
 
