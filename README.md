@@ -1,6 +1,8 @@
-# itu
+# itu 
 
 `import this` versi Bahasa Indonesia
+
+[![PyPI version](https://badge.fury.io/py/itu.svg)](https://badge.fury.io/py/itu) ![PyPI - Downloads](https://img.shields.io/pypi/dm/itu)
 
 ## Cara Pemasangan
 
